@@ -9,3 +9,5 @@ print("Fitur 2")
 print("Fitur pada branch2")
 
 print("fitur fork")
+
+print("fitur baru")
