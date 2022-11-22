@@ -8,4 +8,4 @@ print("Fitur 2")
 
 print("Fitur pada branch2")
 
-print("fork")
+print("fitur fork")
