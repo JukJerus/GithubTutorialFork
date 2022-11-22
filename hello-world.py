@@ -5,3 +5,5 @@ print("Hello Git")
 print("Hello branch")
 
 print("Fitur 2")
+
+print("Fitur pada branch2")
